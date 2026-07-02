@@ -1,0 +1,6 @@
+{
+  "name": "やることリスト",
+  "description": "シンプルで使いやすい、やることリスト（TODO）管理アプリです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
